@@ -1,4 +1,4 @@
-package TestEamples;
+package TestExamples;
 
 public class Foo {
 
